@@ -128,3 +128,28 @@ justify-content: center;
 align-items: center;
 
 }
+/* support asection */
+.support{
+
+
+width: 80%;
+height: 320px;
+border-radius: 8px;
+background: rgba(39, 39, 39, 0.05);
+margin: 0 auto;
+margin-top: 120px;
+
+}
+.support-content{
+    display: flex;
+    text-align: center;
+   padding: 86px 0;
+}
+.support-img{ 
+    width: 33%;
+    display: flex;
+    flex-direction:column;
+    justify-content: center;
+    align-items: center;
+    
+}
